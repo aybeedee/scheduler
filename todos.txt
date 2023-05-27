@@ -1,0 +1,14 @@
+do:
+>list mvp requirements and iterations
+>do dns configuration thing to move namecheap domain from github pages to other (vercel probably)
+>add ssl to domain in order to make it https - can connect namecheap to cloudflare apparently? And explore all other free ssl options
+
+
+mvp:
+    l1:
+    >two pages
+    >first shows navigation buttons to either uni schedule or finals schedule
+    >static page for either with uniform styling + responsive design especially for mobile
+
+done:
+>initialized vite project with TS
