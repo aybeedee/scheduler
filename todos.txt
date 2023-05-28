@@ -1,14 +1,21 @@
 do:
+>add running/local setup guide | mvp iteration runs for this too - starting from basic pnpm run dev
 >list mvp requirements and iterations
 >do dns configuration thing to move namecheap domain from github pages to other (vercel probably)
 >add ssl to domain in order to make it https - can connect namecheap to cloudflare apparently? And explore all other free ssl options
-
+>deploy on vercel probably
 
 mvp:
     l1:
     >two pages
     >first shows navigation buttons to either uni schedule or finals schedule
     >static page for either with uniform styling + responsive design especially for mobile
+    >current ui reference: https://www.pinterest.com/pin/409686897332795053/
+
+    l2:
+    >create a login for yourself
+    >CRUD operations for everything
+    >DB integration
 
 done:
 >initialized vite project with TS
